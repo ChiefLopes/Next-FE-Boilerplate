@@ -44,3 +44,4 @@ The UI library used for this project is material tailwind, For more info, checko
 # kolav2-FE
 # Next-FE-Boilerplate
 # Bizshift_admin
+# Bizshift_admin
